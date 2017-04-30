@@ -6,7 +6,7 @@ I currently have the service to run on my 3 drives. If you have a different conf
 
 INSTALLATION (Win10):
 1) Open up developer command prompt in Administration mode. 
-2) Navigate to the folder containing the executable file.
+2) Navigate to the /FileWatcher/bin/Debug folder containing the executable file.
 3) Type in "installutil FileWatcher.exe" and verify successful install.
 4) Then go to start > run > services.
 5) Look for a service called "File Watcher" and start the service.
